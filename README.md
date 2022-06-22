@@ -7,5 +7,5 @@ Pre-Requisites: node.js
 3.Give following command:  
 
 
-npm i 
+npm i  
 npm test 
