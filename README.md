@@ -11,4 +11,6 @@ Pre-Requisites: node.js
 npm i  
 npm test  
 
-this command will generate html reports on browser. 
+this command will generate html reports on browser.  
+
+![HTML Report](https://user-images.githubusercontent.com/62753355/175024488-41d5ef9c-da79-49d9-b644-706c6e37879a.PNG)
